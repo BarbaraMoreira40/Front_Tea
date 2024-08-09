@@ -51,8 +51,8 @@ ul, ol {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 0%;
-    border-radius: 0%;
+    margin: auto;
+    border-radius: auto;
     box-shadow: 0 0 10px rgba(180, 151, 151, 0.1);
 }
 
